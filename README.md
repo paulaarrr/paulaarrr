@@ -1,4 +1,4 @@
-✨ Building and investing in ventures that disrupt services in Southeast Asia. ✨ 
+✨ Replacing services, one venture at a time. ✨ 
 
 <!---
 paulaarrr/paulaarrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
