@@ -1,4 +1,4 @@
-✨ Venture Capital and Venture Building based in Southeast Asia. ✨ 
+✨ Invest in great founders and build new ventures in Southeast Asia. ✨ 
 
 <!---
 paulaarrr/paulaarrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
