@@ -1,4 +1,4 @@
-✨ Replacing services, one venture at a time. ✨ 
+✨ Disrupting services. Building ventures. ✨ 
 
 <!---
 paulaarrr/paulaarrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
