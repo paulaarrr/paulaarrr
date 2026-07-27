@@ -1,4 +1,4 @@
-✨ Building the future, one venture at a time. ✨ 
+✨ Transform. Build. Outperform. ✨ 
 
 <!---
 paulaarrr/paulaarrr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
